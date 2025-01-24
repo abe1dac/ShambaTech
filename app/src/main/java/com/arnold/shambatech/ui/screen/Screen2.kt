@@ -4,6 +4,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 
 @Composable
-fun Screen(modifier: Modifier = Modifier) {
-
+fun Screen2(modifier: Modifier = Modifier) {
+    
 }
