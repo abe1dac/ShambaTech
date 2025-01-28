@@ -1,1 +1,5 @@
-An Ai- powered desease diagnise system.
+
+# AI-integrated Crop Disease Diagnosis System
+
+
+
